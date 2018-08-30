@@ -2,7 +2,10 @@
 
 (draft syllabus)
 
-**Instructor:** [Che-Wei Wang + Taylor Levy](http://cwandt.com) | [cwwang@gmail.com](mailto:cwwang@gmail.com) | [taylorlevy@gmail.com](mailto:taylorlevy@gmail.com) 
+**Instructor:** 
+[Che-Wei Wang + Taylor Levy](http://cwandt.com)
+[cwwang@gmail.com](mailto:cwwang@gmail.com)
+[taylorlevy@gmail.com](mailto:taylorlevy@gmail.com) 
 **Teaching Assistant:** TBD  
 **Track:** Hardware, Fall 2018  
 **Location:** [School for Poetic Computation](http://sfpc.io/) | 155 Bank St, New York, NY 10014  
