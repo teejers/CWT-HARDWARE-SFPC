@@ -13,7 +13,7 @@
 
 ### 1. September 19th
 
-Introductions. Working with Electricity.
+Introductions.
 
 #### Assignment  
 * On a breadboard, build a circuit with a STDP switch, one or more LEDS using cureent limiting resistors.
@@ -23,13 +23,26 @@ Introductions. Working with Electricity.
 #### Resources
 * [How to read a MSDS for beginners](https://justinlavallee.pages.cba.mit.edu/tutorials/how-to-read-SDS/index.html)
 * [Resistor tutorial](https://learn.sparkfun.com/tutorials/resistors)
-* [Overview of terminology from HTMAA] (http://academy.cba.mit.edu/classes/electronics_design/index.html)
+* [Overview of terminology] (http://academy.cba.mit.edu/classes/electronics_design/index.html)
 
 ---
 
 ### 2. September 26th
 
+Binary Logic
+
 #### Assignment 
+
+* Logic gate sketching.
+
+⋅⋅⋅Use whatever medium you would like to create / express / evoke / render a digital logic gate. The purpose of this exercise is to familiarize yourself with the physical structure of something that is normally experienced as an abstract model or is so small it is impossible to see. Use existing notation, make up your own, have fun with this.
+
+⋅⋅⋅These can and should feel like sketches. Ie. when you  sketch a face, or a tree over and over you build a mental model of it and begin to understand it differently. We'll look these over in class + will present at final show.
+
+* Build logic gates *AND*, *NAND*, *OR* using transistors.
+
+* Bonus high fives if you get to *XOR*. We're going to leave out *XNOR* and *NOR*.
+
 
 #### Resources  
 
