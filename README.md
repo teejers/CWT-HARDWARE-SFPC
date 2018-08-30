@@ -23,7 +23,7 @@ Introductions.
 #### Resources
 * [How to read a MSDS for beginners](https://justinlavallee.pages.cba.mit.edu/tutorials/how-to-read-SDS/index.html)
 * [Resistor tutorial](https://learn.sparkfun.com/tutorials/resistors)
-* [Overview of terminology] (http://academy.cba.mit.edu/classes/electronics_design/index.html)
+* [Overview of terminology](http://academy.cba.mit.edu/classes/electronics_design/index.html)
 
 ---
 
@@ -82,8 +82,8 @@ Bonus : try and build an oscillator in a different way, what happens if you conn
 
 #### Resources  
 
-[Crystal oscillators](https://www.electronics-tutorials.ws/oscillator/crystal.html)
-[555 timer](https://en.wikipedia.org/wiki/555_timer_IC)
+* [Crystal oscillators](https://www.electronics-tutorials.ws/oscillator/crystal.html)
+* [555 timer](https://en.wikipedia.org/wiki/555_timer_IC)
 
 ---
 
