@@ -35,9 +35,9 @@ Binary Logic
 
 * Logic gate sketching.
 
-⋅⋅⋅Use whatever medium you would like to create / express / evoke / render a digital logic gate. The purpose of this exercise is to familiarize yourself with the physical structure of something that is normally experienced as an abstract model or is so small it is impossible to see. Use existing notation, make up your own, have fun with this.
+...Use whatever medium you would like to create / express / evoke / render a digital logic gate. The purpose of this exercise is to familiarize yourself with the physical structure of something that is normally experienced as an abstract model or is so small it is impossible to see. Use existing notation, make up your own, have fun with this.
 
-⋅⋅⋅These can and should feel like sketches. Ie. when you  sketch a face, or a tree over and over you build a mental model of it and begin to understand it differently. We'll look these over in class + will present at final show.
+...These can and should feel like sketches. Ie. when you  sketch a face, or a tree over and over you build a mental model of it and begin to understand it differently. We'll look these over in class + will present at final show.
 
 * Build logic gates *AND*, *NAND*, *OR* using transistors.
 
