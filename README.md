@@ -6,7 +6,9 @@
 [Che-Wei Wang + Taylor Levy](http://cwandt.com)
 [cwwang@gmail.com](mailto:cwwang@gmail.com)
 [taylorlevy@gmail.com](mailto:taylorlevy@gmail.com) 
-**Teaching Assistant:** TBD  
+**Teaching Assistant:** 
+[Tiri](xxx@tiri.xxx)
+[Sebastian](sebmoralesprado@gmail.com)
 **Track:** Hardware, Fall 2018  
 **Location:** [School for Poetic Computation](http://sfpc.io/) | 155 Bank St, New York, NY 10014  
 **Time:** Wednesdays 10am to 1pm  
