@@ -18,10 +18,21 @@
 
 Introductions.
 
+### [Class 1 slides](https://docs.google.com/presentation/d/1Vjq1v9MGcEwVB2BVkHopdZWDF1wGGHCHRQtEgiSBVS0/edit?usp=sharing)
+
 #### Assignment  
-* On a breadboard, build a circuit with a STDP switch, one or more LEDS using cureent limiting resistors.
-* On a breadboard, build an inverter circuit using a transistor.
-* Use another construction method to build a functional circuit. ie. cardboard w/ copper tape, freeform wire sculpture, using found conductive elements...
+* 1. On a breadboard...
+Build an LED circuit with one or more LEDs and one or more switches.
+(bonus) Build an inverter circuit using a NPN transistor.
+
+* 2. On paper, or whatever 2D medium you chose...
+Draw a circuit schematic for either of the above circuits, or some other made up circuit of your choice. Start with the above circuits, and once you get to know them, feel free to get more abstract with these.
+
+* 3. Build LED circuit without a breadboard.
+Think about conductive materials around you, think about scale and dimension. Feel free to collaborate.
+
+With these assignments, play with the characteristics of legibility + poetry. We’ll discuss how these ideas come through in your creations next week.
+
 
 #### Resources
 * [How to read a MSDS for beginners](https://justinlavallee.pages.cba.mit.edu/tutorials/how-to-read-SDS/index.html)
